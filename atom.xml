@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Canvas y html5 con javascript]]></title>
   <link href="http://dpepe.github.io/canvas-html5/atom.xml" rel="self"/>
   <link href="http://dpepe.github.io/canvas-html5/"/>
-  <updated>2014-12-02T00:19:26-06:00</updated>
+  <updated>2014-12-02T00:35:49-06:00</updated>
   <id>http://dpepe.github.io/canvas-html5/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David Perez Perez]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
