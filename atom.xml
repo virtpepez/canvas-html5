@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dpepe.github.io/canvas-html5/atom.xml" rel="self"/>
   <link href="http://dpepe.github.io/canvas-html5/"/>
-  <updated>2014-12-01T23:50:49-06:00</updated>
+  <updated>2014-12-02T00:19:26-06:00</updated>
   <id>http://dpepe.github.io/canvas-html5/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Titulo]]></title>
+    <link href="http://dpepe.github.io/canvas-html5/blog/2014/12/02/titulo/"/>
+    <updated>2014-12-02T00:06:37-06:00</updated>
+    <id>http://dpepe.github.io/canvas-html5/blog/2014/12/02/titulo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Titulo]]></title>
+    <link href="http://dpepe.github.io/canvas-html5/blog/2014/12/01/titulo/"/>
+    <updated>2014-12-01T23:52:07-06:00</updated>
+    <id>http://dpepe.github.io/canvas-html5/blog/2014/12/01/titulo</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
