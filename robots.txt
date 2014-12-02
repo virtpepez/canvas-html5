@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dpepe.github.io/canvas-html5/sitemap.xml 
